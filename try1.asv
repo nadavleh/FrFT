@@ -1,0 +1,41 @@
+clear; clc;
+fs=100;   %sampling rate
+dx=1/fs;   %sampling interval
+X_limits=2;       % bound of signal in time  
+x=-X_limits:dx:(X_limits); 
+L=length(x);
+
+Z=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21];
+
+for k=1:length(Z)
+    f(:,k)=cos(pi*Z(k)*x);
+end
+pulse=prod(f,2);%.*rectangularPulse(-1,1,x)';
+% % see that its ok:
+%     figure(1)
+%     Y=fft(pulse);
+%     P2 = (1/L)*abs(Y);
+%     f = fs*(-(L/2):((L/2)-1))/L;
+%     plot(f,fftshift(P2))
+% %
+% figure(2)
+% [tfr, t, f] = tfrwv(pulse);
+% mesh(fftshift(abs(tfr),1))
+% xlabel('\psi (x)')
+% 
+% figure(3)
+% plot(x,pulse)
+for j=1:length(Z)
+    for k=1:j
+        f(:,k)=cos(pi*Z(k)*x);
+    end
+    pulse=prod(f,2);
+    plot(x,pulse);
+    xlabel('x');
+    ylabel('\psi_*(X)')
+    
+    title(['\psi of S_
+    pause;
+    clear f;
+end
+    

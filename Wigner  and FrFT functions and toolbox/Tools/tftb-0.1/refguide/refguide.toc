@@ -1,0 +1,120 @@
+\contentsline {chapter}{Reference Guide}{10}
+\contentsline {section}{GNU Free Documentation License}{10}
+\contentsline {section}{Tables}{10}
+\contentsline {section}{1. APPLICABILITY AND DEFINITIONS}{11}
+\contentsline {section}{2. VERBATIM COPYING}{12}
+\contentsline {section}{3. COPYING IN QUANTITY}{12}
+\contentsline {section}{4. MODIFICATIONS}{13}
+\contentsline {section}{5. COMBINING DOCUMENTS}{15}
+\contentsline {section}{6. COLLECTIONS OF DOCUMENTS}{15}
+\contentsline {section}{7. AGGREGATION WITH INDEPENDENT WORKS}{15}
+\contentsline {section}{8. TRANSLATION}{15}
+\contentsline {section}{9. TERMINATION}{16}
+\contentsline {section}{10. FUTURE REVISIONS OF THIS LICENSE}{16}
+\contentsline {section}{ADDENDUM: How to use this License for your documents}{16}
+\contentsline {section}{altes}{21}
+\contentsline {section}{ambifunb}{22}
+\contentsline {section}{ambifuwb}{24}
+\contentsline {section}{amexpo1s}{26}
+\contentsline {section}{amexpo2s}{27}
+\contentsline {section}{amgauss}{28}
+\contentsline {section}{amrect}{29}
+\contentsline {section}{amtriang}{30}
+\contentsline {section}{anaask}{31}
+\contentsline {section}{anabpsk}{32}
+\contentsline {section}{anafsk}{33}
+\contentsline {section}{anapulse}{34}
+\contentsline {section}{anaqpsk}{35}
+\contentsline {section}{anasing}{36}
+\contentsline {section}{anastep}{37}
+\contentsline {section}{atoms}{38}
+\contentsline {section}{disprog}{39}
+\contentsline {section}{divider}{40}
+\contentsline {section}{dopnoise}{41}
+\contentsline {section}{doppler}{43}
+\contentsline {section}{dwindow}{45}
+\contentsline {section}{fmconst}{46}
+\contentsline {section}{fmhyp}{47}
+\contentsline {section}{fmlin}{48}
+\contentsline {section}{fmodany}{49}
+\contentsline {section}{fmpar}{50}
+\contentsline {section}{fmpower}{51}
+\contentsline {section}{fmsin}{52}
+\contentsline {section}{fmt}{53}
+\contentsline {section}{friedman}{55}
+\contentsline {section}{gdpower}{57}
+\contentsline {section}{holder}{59}
+\contentsline {section}{htl}{61}
+\contentsline {section}{ifestar2}{63}
+\contentsline {section}{ifmt}{64}
+\contentsline {section}{instfreq}{65}
+\contentsline {section}{integ}{67}
+\contentsline {section}{integ2d}{68}
+\contentsline {section}{izak}{69}
+\contentsline {section}{kaytth}{70}
+\contentsline {section}{klauder}{71}
+\contentsline {section}{locfreq}{72}
+\contentsline {section}{loctime}{73}
+\contentsline {section}{margtfr}{74}
+\contentsline {section}{mexhat}{75}
+\contentsline {section}{midscomp}{76}
+\contentsline {section}{modulo}{77}
+\contentsline {section}{momftfr}{78}
+\contentsline {section}{momttfr}{79}
+\contentsline {section}{movcw4at}{81}
+\contentsline {section}{movpwdph}{82}
+\contentsline {section}{movpwjph}{83}
+\contentsline {section}{movsc2wv}{84}
+\contentsline {section}{movsp2wv}{85}
+\contentsline {section}{movwv2at}{86}
+\contentsline {section}{noisecg}{87}
+\contentsline {section}{noisecu}{89}
+\contentsline {section}{odd}{90}
+\contentsline {section}{plotifl}{91}
+\contentsline {section}{plotsid}{92}
+\contentsline {section}{renyi}{93}
+\contentsline {section}{ridges}{95}
+\contentsline {section}{scale}{96}
+\contentsline {section}{sgrpdlay}{97}
+\contentsline {section}{sigmerge}{98}
+\contentsline {section}{tfrbert}{99}
+\contentsline {section}{tfrbj}{101}
+\contentsline {section}{tfrbud}{103}
+\contentsline {section}{tfrcw}{105}
+\contentsline {section}{tfrdfla}{107}
+\contentsline {section}{tfrgabor}{109}
+\contentsline {section}{tfrgrd}{111}
+\contentsline {section}{tfrideal}{113}
+\contentsline {section}{tfrmh}{114}
+\contentsline {section}{tfrmhs}{115}
+\contentsline {section}{tfrmmce}{117}
+\contentsline {section}{tfrpage}{119}
+\contentsline {section}{tfrparam}{121}
+\contentsline {section}{tfrpmh}{122}
+\contentsline {section}{tfrppage}{124}
+\contentsline {section}{tfrpwv}{126}
+\contentsline {section}{tfrqview}{128}
+\contentsline {section}{tfrrgab}{130}
+\contentsline {section}{tfrri}{132}
+\contentsline {section}{tfrridb}{133}
+\contentsline {section}{tfrridbn}{135}
+\contentsline {section}{tfrridh}{137}
+\contentsline {section}{tfrridt}{139}
+\contentsline {section}{tfrrmsc}{141}
+\contentsline {section}{tfrrpmh}{143}
+\contentsline {section}{tfrrppag}{145}
+\contentsline {section}{tfrrpwv}{147}
+\contentsline {section}{tfrrsp}{149}
+\contentsline {section}{tfrrspwv}{151}
+\contentsline {section}{tfrsave}{153}
+\contentsline {section}{tfrscalo}{154}
+\contentsline {section}{tfrsp}{156}
+\contentsline {section}{tfrspaw}{158}
+\contentsline {section}{tfrspwv}{160}
+\contentsline {section}{tfrstft}{162}
+\contentsline {section}{tfrunter}{164}
+\contentsline {section}{tfrview}{166}
+\contentsline {section}{tfrwv}{168}
+\contentsline {section}{tfrzam}{170}
+\contentsline {section}{window}{172}
+\contentsline {section}{zak}{174}
